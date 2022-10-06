@@ -155,6 +155,10 @@ border-radius: 20px;
   font-family:  Raleway;
   opacity: 1; /* Firefox */
 }
+.form-control--main { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  font-family:  Raleway;
+  opacity: 1; /* Firefox */
+}
 
 .form-control:required{
   border-color: #0d10b5;
